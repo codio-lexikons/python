@@ -10,12 +10,20 @@
   }, 
   "For loop": {
     "desc": "for loop",
-    "tags": "for loop",
+    "tags": "for continue break else loop",
     "links" : {
       "1": "https://docs.python.org/3/tutorial/controlflow.html#for-statements"
     },
     "example": "for.md"
   }, 
+  "While loop": {
+    "desc": "while loop",
+    "tags": "while break continue else loop",
+    "links" : {
+      "1": "http://www.tutorialspoint.com/python/python_while_loop.htm"
+    },
+    "example": "while.md"
+  },   
   "Standard Operators": {
     "desc": "Arithmetic operators such as addition, subtraction, multiplication, division",
     "tags": "+ - / //  * % == addition, subtraction, multiplication, division floor exponent",    
@@ -71,6 +79,23 @@
       "1": "http://www.tutorialspoint.com/python/python_basic_operators.htm"
     },
     "example": "identity-operators.md"
+  }, 
+  "Conditional statements (If)": {
+    "desc": "if, elif and else statements",
+    "tags": "if else elif"
+    "links" : {
+      "1": "https://docs.python.org/3/tutorial/controlflow.html#if-statements",
+      "2": "http://www.tutorialspoint.com/python/python_decision_making.htm"
+    },
+    "example": "if.md"
+  }, 
+  "Numbers": {
+    "desc": "Creating numbers of type integer, long, float and complex ",
+    "tags": "integer long float complex hexadecimal pi e int ceil copysign fabs factorial floor fmod frex fsum isfinite isinf isnan ldex modf trunc exp log pow sqrt acos asin atan cos sin tan hypot degrees radians acosh asinh atanh cosh sinh tanh erf erfx gamma"
+    "links" : {
+      "1": "http://www.tutorialspoint.com/python/python_numbers.htm"
+    },
+    "example": "numbers.md"
   }, 
 
 }

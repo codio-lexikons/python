@@ -12,5 +12,9 @@ tuple = ( 'abcd', 786 , 2.23, 'john', 70.2  ) # A tuple (read-only list)
 dictionary = {'name': 'john','code':6734, 'dept': 'sales'}  # A dictionary
 ```
 
+You can also assign values to multiple variables in one statement like this
 
+```python
+firstName, lastName = 'Mike', 'Smith'
+```
 
