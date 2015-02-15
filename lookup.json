@@ -1,0 +1,76 @@
+
+{
+  "Variable": {
+    "desc": "defining a variable",
+    "tags": "variable string boolean number list array tuple dictionary",
+    "links" : {
+      "1": "https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator"
+    },
+    "example": "var.md"
+  }, 
+  "For loop": {
+    "desc": "for loop",
+    "tags": "for loop",
+    "links" : {
+      "1": "https://docs.python.org/3/tutorial/controlflow.html#for-statements"
+    },
+    "example": "for.md"
+  }, 
+  "Standard Operators": {
+    "desc": "Arithmetic operators such as addition, subtraction, multiplication, division",
+    "tags": "+ - / //  * % == addition, subtraction, multiplication, division floor exponent",    
+    "links" : {
+      "1": "http://www.tutorialspoint.com/python/python_basic_operators.htm"
+    },
+    "example": "std-operators.md"
+  },     
+  "Comparison Operators": {
+    "desc": "Equals, not equals, greater than, less than etc.",
+    "tags": "Equals not equals greater than less than = == < > <= >= != <> "
+    "links" : {
+      "1": "http://www.tutorialspoint.com/python/python_basic_operators.htm"
+    },
+    "example": "comp-operators.md"
+  },         
+  "Assigment Operators": {
+    "desc": "Asignment operators ",
+    "tags": "= += -+ *= /="
+    "links" : {
+      "1": "http://www.tutorialspoint.com/python/python_basic_operators.htm"
+    },
+    "example": "assignment-operators.md"
+  },     
+  "Bitwise Operators": {
+    "desc": "Bitwise operators ",
+    "tags": "| & ^ >> <<"
+    "links" : {
+      "1": "http://www.tutorialspoint.com/python/python_basic_operators.htm"
+    },
+    "example": "bitwise-operators.md"
+  },     
+  "Logical Operators": {
+    "desc": "Logical operators: and, or and not",
+    "tags": "and or not"
+    "links" : {
+      "1": "http://www.tutorialspoint.com/python/python_basic_operators.htm"
+    },
+    "example": "logical-operators.md"
+  },    
+  "Membership Operators": {
+    "desc": "'in' and 'not in'",
+    "tags": "in not in"
+    "links" : {
+      "1": "http://www.tutorialspoint.com/python/python_basic_operators.htm"
+    },
+    "example": "membership-operators.md"
+  },    
+  "Identity Operators": {
+    "desc": "'is' and 'not is'",
+    "tags": "is not is"
+    "links" : {
+      "1": "http://www.tutorialspoint.com/python/python_basic_operators.htm"
+    },
+    "example": "identity-operators.md"
+  }, 
+
+}
